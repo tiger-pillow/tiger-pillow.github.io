@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gladys Fang</title>
-    <link>http://example.org/</link>
+    <link>https://tiger-pillow.github.io/</link>
     <description>Recent content on Gladys Fang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 May 2021 23:29:26 -0700</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tiger-pillow.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://example.org/post/about/</link>
+      <link>https://tiger-pillow.github.io/post/about/</link>
       <pubDate>Wed, 12 May 2021 23:29:26 -0700</pubDate>
       
-      <guid>http://example.org/post/about/</guid>
-      <description></description>
+      <guid>https://tiger-pillow.github.io/post/about/</guid>
+      <description>This is Gladys Fang&amp;rsquo;s site. She is still working on it. Check back later!</description>
     </item>
     
     <item>
       <title>Reflection2</title>
-      <link>http://example.org/post/reflection2/</link>
+      <link>https://tiger-pillow.github.io/post/reflection2/</link>
       <pubDate>Wed, 12 May 2021 23:29:10 -0700</pubDate>
       
-      <guid>http://example.org/post/reflection2/</guid>
+      <guid>https://tiger-pillow.github.io/post/reflection2/</guid>
       <description>Yale reflection 2</description>
     </item>
     
     <item>
       <title>Yale Reflections #1 - Courses</title>
-      <link>http://example.org/post/reflection1/</link>
+      <link>https://tiger-pillow.github.io/post/reflection1/</link>
       <pubDate>Wed, 12 May 2021 22:36:47 -0700</pubDate>
       
-      <guid>http://example.org/post/reflection1/</guid>
+      <guid>https://tiger-pillow.github.io/post/reflection1/</guid>
       <description>I have two finals left, yet I decide to write about my Yale experience. After all, what better procrastinations are there other than &amp;ldquo;reflections&amp;rdquo;?
 TEST 2</description>
     </item>
     
     <item>
       <title>Testpage</title>
-      <link>http://example.org/post/testpage/</link>
+      <link>https://tiger-pillow.github.io/post/testpage/</link>
       <pubDate>Wed, 12 May 2021 22:34:44 -0700</pubDate>
       
-      <guid>http://example.org/post/testpage/</guid>
+      <guid>https://tiger-pillow.github.io/post/testpage/</guid>
       <description></description>
     </item>
     

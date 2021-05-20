@@ -1,14 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Gladys Fang</title>
+    <title>Categories on Gladys Fang&#39;s Stuff</title>
     <link>https://tiger-pillow.github.io/categories/</link>
-    <description>Recent content in Categories on Gladys Fang</description>
+    <description>Recent content in Categories on Gladys Fang&#39;s Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 14 May 2021 23:29:10 -0700</lastBuildDate>
     
 	<atom:link href="https://tiger-pillow.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Yale</title>
+      <link>https://tiger-pillow.github.io/categories/yale/</link>
+      <pubDate>Fri, 14 May 2021 23:29:10 -0700</pubDate>
+      
+      <guid>https://tiger-pillow.github.io/categories/yale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outdoor</title>
+      <link>https://tiger-pillow.github.io/categories/outdoor/</link>
+      <pubDate>Thu, 13 May 2021 11:38:01 -0700</pubDate>
+      
+      <guid>https://tiger-pillow.github.io/categories/outdoor/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

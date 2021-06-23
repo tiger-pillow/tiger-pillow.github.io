@@ -6,10 +6,28 @@
     <description>Recent content in Categories on Gladys Fang&#39;s Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Jun 2021 20:09:38 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jun 2021 15:22:26 -0700</lastBuildDate>
     
 	<atom:link href="https://tiger-pillow.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Reading</title>
+      <link>https://tiger-pillow.github.io/categories/reading/</link>
+      <pubDate>Tue, 22 Jun 2021 15:22:26 -0700</pubDate>
+      
+      <guid>https://tiger-pillow.github.io/categories/reading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel</title>
+      <link>https://tiger-pillow.github.io/categories/travel/</link>
+      <pubDate>Wed, 16 Jun 2021 13:08:43 -0700</pubDate>
+      
+      <guid>https://tiger-pillow.github.io/categories/travel/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Yale</title>
@@ -17,15 +35,6 @@
       <pubDate>Tue, 08 Jun 2021 20:09:38 -0400</pubDate>
       
       <guid>https://tiger-pillow.github.io/categories/yale/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Travel</title>
-      <link>https://tiger-pillow.github.io/categories/travel/</link>
-      <pubDate>Sun, 06 Jun 2021 11:41:37 -0400</pubDate>
-      
-      <guid>https://tiger-pillow.github.io/categories/travel/</guid>
       <description></description>
     </item>
     

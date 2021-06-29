@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Gladys Fang&#39;s Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Jun 2021 15:22:26 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jun 2021 10:11:09 -0700</lastBuildDate>
     
 	<atom:link href="https://tiger-pillow.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>babble</title>
+      <link>https://tiger-pillow.github.io/categories/babble/</link>
+      <pubDate>Tue, 29 Jun 2021 10:11:09 -0700</pubDate>
+      
+      <guid>https://tiger-pillow.github.io/categories/babble/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Reading</title>
@@ -35,15 +44,6 @@
       <pubDate>Tue, 08 Jun 2021 20:09:38 -0400</pubDate>
       
       <guid>https://tiger-pillow.github.io/categories/yale/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Babble</title>
-      <link>https://tiger-pillow.github.io/categories/babble/</link>
-      <pubDate>Wed, 02 Jun 2021 10:12:54 -0700</pubDate>
-      
-      <guid>https://tiger-pillow.github.io/categories/babble/</guid>
       <description></description>
     </item>
     

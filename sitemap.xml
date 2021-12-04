@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://tiger-pillow.github.io/categories/babble/</loc>
+    <lastmod>2021-11-29T23:22:35+01:00</lastmod>
+  </url><url>
     <loc>https://tiger-pillow.github.io/categories/</loc>
-    <lastmod>2021-11-07T17:55:08+02:00</lastmod>
+    <lastmod>2021-11-29T23:22:35+01:00</lastmod>
+  </url><url>
+    <loc>https://tiger-pillow.github.io/post/2021_11_musings/</loc>
+    <lastmod>2021-11-29T23:22:35+01:00</lastmod>
+  </url><url>
+    <loc>https://tiger-pillow.github.io/post/</loc>
+    <lastmod>2021-11-29T23:22:35+01:00</lastmod>
+  </url><url>
+    <loc>https://tiger-pillow.github.io/</loc>
+    <lastmod>2021-11-29T23:22:35+01:00</lastmod>
   </url><url>
     <loc>https://tiger-pillow.github.io/post/onfallingoffthewagon/</loc>
     <lastmod>2021-11-07T17:55:08+02:00</lastmod>
   </url><url>
     <loc>https://tiger-pillow.github.io/categories/outdoors/</loc>
-    <lastmod>2021-11-07T17:55:08+02:00</lastmod>
-  </url><url>
-    <loc>https://tiger-pillow.github.io/post/</loc>
-    <lastmod>2021-11-07T17:55:08+02:00</lastmod>
-  </url><url>
-    <loc>https://tiger-pillow.github.io/</loc>
     <lastmod>2021-11-07T17:55:08+02:00</lastmod>
   </url><url>
     <loc>https://tiger-pillow.github.io/post/montblanc/</loc>
@@ -24,9 +30,6 @@
     <lastmod>2021-09-17T09:44:41+02:00</lastmod>
   </url><url>
     <loc>https://tiger-pillow.github.io/post/1monthinsuisse/</loc>
-    <lastmod>2021-09-17T08:50:09+02:00</lastmod>
-  </url><url>
-    <loc>https://tiger-pillow.github.io/categories/babble/</loc>
     <lastmod>2021-09-17T08:50:09+02:00</lastmod>
   </url><url>
     <loc>https://tiger-pillow.github.io/post/summerinseattle/</loc>

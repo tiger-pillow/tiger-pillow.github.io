@@ -2,16 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tiger-pillow.github.io/categories/babble/</loc>
-    <lastmod>2022-05-24T18:31:07+01:00</lastmod>
-  </url><url>
     <loc>https://tiger-pillow.github.io/categories/</loc>
-    <lastmod>2022-05-24T18:31:07+01:00</lastmod>
+    <lastmod>2022-08-11T13:56:00+02:00</lastmod>
+  </url><url>
+    <loc>https://tiger-pillow.github.io/post/iceland1/</loc>
+    <lastmod>2022-08-11T13:56:00+02:00</lastmod>
+  </url><url>
+    <loc>https://tiger-pillow.github.io/categories/outdoors/</loc>
+    <lastmod>2022-08-11T13:56:00+02:00</lastmod>
   </url><url>
     <loc>https://tiger-pillow.github.io/post/</loc>
-    <lastmod>2022-05-24T18:31:07+01:00</lastmod>
+    <lastmod>2022-08-11T13:56:00+02:00</lastmod>
   </url><url>
     <loc>https://tiger-pillow.github.io/</loc>
+    <lastmod>2022-08-11T13:56:00+02:00</lastmod>
+  </url><url>
+    <loc>https://tiger-pillow.github.io/categories/epfl/</loc>
+    <lastmod>2022-06-03T18:31:07+01:00</lastmod>
+  </url><url>
+    <loc>https://tiger-pillow.github.io/post/epfl_vs_yale/</loc>
+    <lastmod>2022-06-03T18:31:07+01:00</lastmod>
+  </url><url>
+    <loc>https://tiger-pillow.github.io/categories/babble/</loc>
     <lastmod>2022-05-24T18:31:07+01:00</lastmod>
   </url><url>
     <loc>https://tiger-pillow.github.io/post/may_2022_reflections/</loc>
@@ -48,9 +60,6 @@
     <lastmod>2021-11-29T23:22:35+01:00</lastmod>
   </url><url>
     <loc>https://tiger-pillow.github.io/post/onfallingoffthewagon/</loc>
-    <lastmod>2021-11-07T17:55:08+02:00</lastmod>
-  </url><url>
-    <loc>https://tiger-pillow.github.io/categories/outdoors/</loc>
     <lastmod>2021-11-07T17:55:08+02:00</lastmod>
   </url><url>
     <loc>https://tiger-pillow.github.io/post/montblanc/</loc>

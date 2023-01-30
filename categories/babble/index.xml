@@ -6,7 +6,27 @@
     <description>Recent content in Babble on Yiyuan Fang&#39;s Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Nov 2022 13:18:45 +0100</lastBuildDate><atom:link href="https://tiger-pillow.github.io/categories/babble/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Jan 2023 13:18:45 +0100</lastBuildDate><atom:link href="https://tiger-pillow.github.io/categories/babble/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2022年的总结👋🏻</title>
+      <link>https://tiger-pillow.github.io/post/bye2022/</link>
+      <pubDate>Sat, 07 Jan 2023 13:18:45 +0100</pubDate>
+      
+      <guid>https://tiger-pillow.github.io/post/bye2022/</guid>
+      <description>必然是考试期间拖延，才来这里写总结啊。今天是1月30号，好在还没到2月份，总结来的也不算晚吧。
+最近看到的一句话，很喜欢：&amp;ldquo;I say no a lot&amp;rdquo;
+关于爱 今年很重要的一个收获就是一份感情。我和我的室友在一起了，两人磨合的还可以，也一起做了很多疯狂好玩的事情，也有一些小磕小绊。 谈恋爱很好。很自私的来讲，就是有人一起做很多事情（骑车，滑雪，登山，吃饭，喝酒，弹琴唱歌）。尤其是遇到了T这样多才多艺，性格稳定，原生家庭完整的男孩子，我真的好幸运。 同时，也是发现自我成长的过程。比如，如何去接受和处理他的情绪，如何去磨合，compromise，奉献和汲取达到平衡，包容对方。
+谈恋爱是开心的，现在异地有一点点难，不过只有时间能给我答案。 觉得不好的地方也不是没有。我是一个很善于独处的人，一个人可以玩的很开心。还有就是，会觉得跟T在一起，世界开始变得略微受限 &amp;ndash; 毕竟要考虑另一个人的感受了。
+我对自己未来的期待一直都是成为一个world citizen, 一直在学习，玩新东西，在不同国家生活，继续学习更多的语言。稳定的关系，从某种程度来讲也是一种枷锁 &amp;ndash; 毕竟对方可能不愿意拔根而起搬到其他国家。
+编程！ 回看2022年，自己的编程水平还是进步了很多的！ 最骄傲的一件事就是写了www.coursefinder.ch (EPFL学生欢迎登录查看！我估计会留一个适用username，不影响实际情况的） 之前一直说frontend, backend, 写了这个小项目这才明白到底都是什么关系。也成功deploy了，甚至有人主动给我写邮件想一起搞这个小项目。
+我来EPFL的一个很重要目的，就是慢慢上课，上课的同时认真的学习法语和编程，充实快乐。再次感谢父母给奠定的经济基础，我读书这么多年，没赚过几毛钱，好在爸妈也不需要我供养。
+今天看到了 Neal.fun 这个网站上好多好玩的小项目，想把coursefinder写的差不多了的话，就写下一个！
+编程最快乐的事情之一，就是自己可以做很多很多事情，实习脑海里的很多想法。拥有这样的能力是很迷人的感觉。 其实其他工程类学科也有这样的能力，比如化学制药，生物engineer一个新的assay，civil engineer 建一个新的桥，architect建一个新房子。但这些的feedback loop相对较长，从构想到实现至少几个月，多到几十年，而且需要多人合作。但是他们的结果也没有计算机产品这么ephemeral，坚实的多了。建筑师看到client搬进自己设计的房子里，也一定是幸福无比的吧。
+法语 法语是有进步的！虽然进步并不容易看见。 还记得刚到洛桑的时候别人跟我讲话，我经常听不懂，现在已经听得80-90%没有问题了，法语打电话也是顺顺利利。今年连续通过了DELF B2和DALF C1的考试，2023年打算继续认真学习法语，考了C2，争取考一个高分。今年也是头一次用法语看完了长篇的小说，很是幸福。
+学语言是很幸福的，进步是相对线性的，很少会觉得卡在一个地方。多学一个单词就是一个单词，多shadow一篇文章，就是听力进步一点。 感觉自己现在法语水平约等于我高中的英语水平。自己再push一把，就能把这个坎儿过去。
+注意力 今年经常玩玩学学，有时候会坐不下来，坐不住。希望2023年用手机的情况少一点，少被dsitracted</description>
+    </item>
+    
     <item>
       <title>这一年以来的side projects</title>
       <link>https://tiger-pillow.github.io/post/nov2022/</link>

@@ -6,7 +6,30 @@
     <description>Recent content on Yiyuan Fang&#39;s Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Dec 2023 13:35:12 +0100</lastBuildDate><atom:link href="https://tiger-pillow.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jan 2024 13:24:23 +0100</lastBuildDate><atom:link href="https://tiger-pillow.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Transitioning</title>
+      <link>https://tiger-pillow.github.io/post/jan2024/</link>
+      <pubDate>Tue, 16 Jan 2024 13:24:23 +0100</pubDate>
+      
+      <guid>https://tiger-pillow.github.io/post/jan2024/</guid>
+      <description>又是在考试期间写的。
+最近发现了一个很喜欢的博客：https://justzht.com/
+喜欢这个博客有很多原因：博主是个程序员，portfolio有很多好玩的产品不说，他也会把真实的，细腻的心思记录下来。我能够从他2014年大学时代一直看到今天，期间他所经历过的困惑，焦虑，和一些阶段性的成就所带来的喜悦，我也都能体会到。很有共鸣。
+另一个格外喜欢这个博主的原因，是他并不走寻常路。有一些人就会像他这样，tolerate bullshit的能力比较小，对于自己不认同的体制，不会削尖脑袋去适应。大学时他经常翘课，GPA也只有2.9几，对于不认同的人（比如大学里的辅导员，班主任一类的）就会反抗。遇到自己喜欢的事，比如写代码，做产品，外包，就会一股脑埋下去做。我很是喜欢这种人。
+之所以想到这个，就是会想想自己的路走的，绝对不是在每一个选择都做到“完美”。在耶鲁我见过好多的：史家小学 &amp;ndash; 北京四中 &amp;ndash; 常春藤名校&amp;ndash; IBD or MBB &amp;ndash; 最后去了PE或者venture fund做investing。他们从小学就开始上学而思，英语就已经流利，妈妈会在教室后面一起记奥数笔记。在每一个阶段都似乎做了optimal solution，最后的结果就是boring as fuck。
+放在四五年前的我可能还会对这种人产生佩服，但是现在我只觉得好无聊。他们的人生看似有无限可能，但实际上却被自己脑海了的“最优通道”困住了，没有spontaneity, 也没有creativity。尤其是妈妈最近公司打官司等等，反而会对做investment人产生很强烈的抵触。拿着别人的钱去投资，哪怕做的再好，头衔再靓丽，都无法使我钦佩了。真正做内容，做产品，对这世界有一点点推动，让一小撮儿人更开心的那种人，我更喜欢，更愿意接触。
+我自己在哪里呢？我觉得自己在两者之间吧。童年被父母放羊，很难说每步都走得顺利，去了名不见经传的初中。但后来有个自我规训的过程，也尝到了这种”体制内“的甜头。耶鲁毕业之后没有选择大部分人都会做的事情，而是读了研究生，离开了美国，反而现在过得很开心，觉得自由自在，每天都在做自己喜欢的事。
+感觉自己的人生很像stochastic gradient descent，因为人生就是本来不是convex function, 没有closed-form solution，只好在每一步都朝着自己最想去的方向走就好了。
+开始工作了 很期待即将开始的full-time生活。上一次长时间的工作还是在gap year期间，但是那时候毕竟知道自己还要回到耶鲁上学，自己也不会想回到T或者Z公司做全职，所以那时候对待工作的心态就不太一样。现在在很好的平台，有愿意带我的老板，我是有着十足的动力想要证明自己。
+工作有另一个好处，就是我不用再做大量的context switch了。有一件事占据了我生活中50%的清醒时间，其实挺好的。这份工作目前看来（我现在是part-time）也有着我所希望的，需要写代码也需要对市场的理解。写了三年代码，如果当时去了MED家或者MEC家，或者其他完全不用写码的公司，我大概也会很难受吧。
+想多做点项目 自从开学之后就没时间维护coursefinder了，现在自己用都能感觉很多信息不够updated。等考完试打算重新整理下，然后再做一波推广试试。也终于有时间写Vocab app了，想试试flutter 或者 react native写，这样以后方便移植到手机上。不想学ios开发，感觉好局限，但是光做web好像也很难受，毕竟连coursefinder这种网站，都有一半的访问来自手机端。我可能手机太小了（iphone 12 mini），为了跑步方便买的，所以远远低估了其他人使用手机的频率和场景。
+vocab app想写很久了，一直在脑海里徘徊的想法，想的我手痒痒。
+本来3月份的法语C2考试，我实在逼不动自己了，要是想考过还得再备考两个月，而我已经sprint了接近半年，需要休息下。打算这两天发封求情email看能不能再推到11月份，不行的话就abandon吧，损失个报名费，换取happiness。
+Side projects? priority is ofc 上班，要能顺利留下来全职才好，但是其他的事情有以下几个选择：
+ 上吉他课，一直是自己弹着玩，想找个老师指点下 去gym - 想多做weight lifting了 写vocab app - 白天写代码，晚上下班还能有脑子么？  知道自己能力有限，也不想overstretched，所以三个里面打算选一个。还没有想好，等搬到日内瓦再说吧。</description>
+    </item>
+    
     <item>
       <title>日有增益，步履不停</title>
       <link>https://tiger-pillow.github.io/post/nov2023/</link>

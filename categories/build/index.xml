@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Build on Yiyuan Fang&#39;s Stuff</title>
+    <link>https://tiger-pillow.github.io/categories/build/</link>
+    <description>Recent content in Build on Yiyuan Fang&#39;s Stuff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Sep 2024 23:40:05 +0200</lastBuildDate><atom:link href="https://tiger-pillow.github.io/categories/build/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vocabloom 1 -- a project of one&#39;s own</title>
+      <link>https://tiger-pillow.github.io/post/vocabloom_1/</link>
+      <pubDate>Wed, 11 Sep 2024 23:40:05 +0200</pubDate>
+      
+      <guid>https://tiger-pillow.github.io/post/vocabloom_1/</guid>
+      <description>There are two kinds of fun in this world, the fun of consuming, and the fun of making.
+Fun of consuming is your typical entertainments &amp;ndash; a Netflix show, a nice dinner at a bistro, a concert or festival.
+Fun of making is anything that involves intentional, creative effort &amp;ndash; putting your twist on a dish, writing a short story, or in my case, coding.
+The second type, when done right, is 100x more fun.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://tiger-pillow.github.io/post/</loc>
+    <lastmod>2024-10-18T21:41:08+02:00</lastmod>
+  </url><url>
+    <loc>https://tiger-pillow.github.io/</loc>
+    <lastmod>2024-10-18T21:41:08+02:00</lastmod>
+  </url><url>
+    <loc>https://tiger-pillow.github.io/post/oct2024no2/</loc>
+    <lastmod>2024-10-18T21:41:08+02:00</lastmod>
+  </url><url>
     <loc>https://tiger-pillow.github.io/categories/babble/</loc>
     <lastmod>2024-10-09T22:32:15+02:00</lastmod>
   </url><url>
@@ -9,12 +18,6 @@
     <lastmod>2024-10-09T22:32:15+02:00</lastmod>
   </url><url>
     <loc>https://tiger-pillow.github.io/post/oct2024/</loc>
-    <lastmod>2024-10-09T22:32:15+02:00</lastmod>
-  </url><url>
-    <loc>https://tiger-pillow.github.io/post/</loc>
-    <lastmod>2024-10-09T22:32:15+02:00</lastmod>
-  </url><url>
-    <loc>https://tiger-pillow.github.io/</loc>
     <lastmod>2024-10-09T22:32:15+02:00</lastmod>
   </url><url>
     <loc>https://tiger-pillow.github.io/categories/build/</loc>

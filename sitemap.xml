@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tiger-pillow.github.io/post/2025_taxi/</loc>
-    <lastmod>2025-01-01T00:07:11+08:00</lastmod>
-  </url><url>
     <loc>https://tiger-pillow.github.io/categories/attempt/</loc>
     <lastmod>2025-01-01T00:07:11+08:00</lastmod>
   </url><url>
@@ -15,6 +12,9 @@
     <lastmod>2025-01-01T00:07:11+08:00</lastmod>
   </url><url>
     <loc>https://tiger-pillow.github.io/</loc>
+    <lastmod>2025-01-01T00:07:11+08:00</lastmod>
+  </url><url>
+    <loc>https://tiger-pillow.github.io/post/2025_taxi/</loc>
     <lastmod>2025-01-01T00:07:11+08:00</lastmod>
   </url><url>
     <loc>https://tiger-pillow.github.io/categories/babble/</loc>

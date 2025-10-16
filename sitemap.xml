@@ -2,16 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://tiger-pillow.github.io/post/</loc>
+    <lastmod>2025-10-16T21:12:06+02:00</lastmod>
+  </url><url>
+    <loc>https://tiger-pillow.github.io/</loc>
+    <lastmod>2025-10-16T21:12:06+02:00</lastmod>
+  </url><url>
+    <loc>https://tiger-pillow.github.io/post/2025_10_16/</loc>
+    <lastmod>2025-10-16T21:12:06+02:00</lastmod>
+  </url><url>
     <loc>https://tiger-pillow.github.io/categories/babble/</loc>
     <lastmod>2025-10-03T17:10:54-05:00</lastmod>
   </url><url>
     <loc>https://tiger-pillow.github.io/categories/</loc>
-    <lastmod>2025-10-03T17:10:54-05:00</lastmod>
-  </url><url>
-    <loc>https://tiger-pillow.github.io/post/</loc>
-    <lastmod>2025-10-03T17:10:54-05:00</lastmod>
-  </url><url>
-    <loc>https://tiger-pillow.github.io/</loc>
     <lastmod>2025-10-03T17:10:54-05:00</lastmod>
   </url><url>
     <loc>https://tiger-pillow.github.io/post/2025_09_03/</loc>
@@ -19,9 +22,6 @@
   </url><url>
     <loc>https://tiger-pillow.github.io/post/2025_08_18/</loc>
     <lastmod>2025-08-18T23:06:44+02:00</lastmod>
-  </url><url>
-    <loc>https://tiger-pillow.github.io/post/summer2025/</loc>
-    <lastmod>2025-08-18T23:06:32+02:00</lastmod>
   </url><url>
     <loc>https://tiger-pillow.github.io/post/2025_07_15/</loc>
     <lastmod>2025-07-13T23:36:19+02:00</lastmod>

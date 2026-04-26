@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tiger-pillow.github.io/post/2026_04_25/</loc>
-    <lastmod>2026-04-25T23:21:14+02:00</lastmod>
-  </url><url>
     <loc>https://tiger-pillow.github.io/categories/</loc>
     <lastmod>2026-04-25T23:21:14+02:00</lastmod>
   </url><url>
     <loc>https://tiger-pillow.github.io/post/</loc>
     <lastmod>2026-04-25T23:21:14+02:00</lastmod>
   </url><url>
+    <loc>https://tiger-pillow.github.io/categories/travel/</loc>
+    <lastmod>2026-04-25T23:21:14+02:00</lastmod>
+  </url><url>
     <loc>https://tiger-pillow.github.io/</loc>
     <lastmod>2026-04-25T23:21:14+02:00</lastmod>
   </url><url>
-    <loc>https://tiger-pillow.github.io/categories/%E4%BB%8E%E5%8F%B0%E6%B9%BE%E5%9B%9E%E6%9D%A5/</loc>
+    <loc>https://tiger-pillow.github.io/post/2026_04_25/</loc>
     <lastmod>2026-04-25T23:21:14+02:00</lastmod>
   </url><url>
     <loc>https://tiger-pillow.github.io/categories/babble/</loc>
@@ -250,9 +250,6 @@
   </url><url>
     <loc>https://tiger-pillow.github.io/post/wutheringheights/</loc>
     <lastmod>2021-06-22T15:22:26-07:00</lastmod>
-  </url><url>
-    <loc>https://tiger-pillow.github.io/categories/travel/</loc>
-    <lastmod>2021-06-16T13:08:43-07:00</lastmod>
   </url><url>
     <loc>https://tiger-pillow.github.io/post/airbnb/</loc>
     <lastmod>2021-06-16T13:08:43-07:00</lastmod>
